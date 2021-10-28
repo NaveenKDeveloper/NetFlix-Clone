@@ -8,7 +8,7 @@ import Nav from './Nav';
 
 
 function App() {
-  document.title = 'NaveenK'
+  
   return (
     
     <div className="app">
